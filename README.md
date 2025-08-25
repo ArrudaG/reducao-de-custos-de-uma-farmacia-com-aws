@@ -1,0 +1,1 @@
+# reducao-de-custos-de-uma-farmacia-com-aws
